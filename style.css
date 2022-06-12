@@ -62,18 +62,21 @@ body {
       margin-top: 70px;
       
     }
+    /*_________p______*/
     p{
       margin-top: 0;
     }
-    
+    /*_________h3_____*/
     h3{
       margin: 0;
     }
+    /*________footer____*/
     footer{
       background:url(img/my-cv.png);
       height: 100px;
       margin: 0;
     }
+    /*____foot___*/
     .foot{
     
       margin: 0;
