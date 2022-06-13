@@ -35,6 +35,9 @@ body {
      
     }
       /*______a______*/
+      .a{
+        margin: 0;
+      }
     a{
       color: rgb(212, 229, 245);
       text-decoration: none;
@@ -84,3 +87,7 @@ body {
     padding-top: 15px;
     padding-left: 50px;
     }
+     .button{
+      margin: 0;
+      float: right;
+     }
